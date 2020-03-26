@@ -2,7 +2,7 @@
 Negamax algorithm with alpha-beta pruning for Tablut game.
 
 --------------------------
-For further information about this project see my web site -> https://eleonoramisino.altervista.org/tablut-ai/
+You can find more information about this project on my web site -> https://eleonoramisino.altervista.org/tablut-ai/
 
 
 
