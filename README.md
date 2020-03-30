@@ -1,16 +1,8 @@
 # TablutAI
-Negamax algorithm with alpha-beta pruning for Tablut game.
+This is an implementation of **Negamax** algorithm with the **alpha-beta pruning** technique.
+The heuristic is designed for the ancient Tablut game.
 
-### Contributors:
-
-[BogdanIvasiuk](https://github.com/BogdanIvasiuk)
-
-[DanieleVeri](https://github.com/DanieleVeri)
-
-[EleMisi](https://github.com/EleMisi)
-
---------------------------
-You can find more information about this project on [my website](https://eleonoramisino.altervista.org/tablut-ai/)
+If you're interested in, you can find more information about this project on my [website](https://eleonoramisino.altervista.org/tablut-ai/)
 
 
 
